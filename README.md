@@ -5,7 +5,7 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
-- [ ] [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
+- [x] [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
 
 - [ ] [MongoDB: The Definitive Guide](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
 
@@ -23,11 +23,11 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [x] [Kubernetes Cookbook](https://www.oreilly.com/library/view/kubernetes-cookbook-2nd/9781098142230/)
 
-- [ ] [Docker: Up & Running](https://www.oreilly.com/library/view/docker-up/9781098131814/)
+- [x] [Docker: Up & Running](https://www.oreilly.com/library/view/docker-up/9781098131814/)
 
 - [ ] [Production Kubernetes](https://www.oreilly.com/library/view/production-kubernetes/9781492092292/)
 
-- [ ] [Kubernetes Best Practices](https://www.oreilly.com/library/view/kubernetes-best-practices/9781098142155/)
+- [x] [Kubernetes Best Practices](https://www.oreilly.com/library/view/kubernetes-best-practices/9781098142155/)
 
 - [ ] [Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781098152857/)
 
@@ -37,16 +37,16 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
 
-- [ ] [Continuous Deployment](https://www.oreilly.com/library/view/continuous-deployment/9781098146719/)
+- [x] [Continuous Deployment](https://www.oreilly.com/library/view/continuous-deployment/9781098146719/)
 
 - [ ] [Managing Cloud Native Data on Kubernetes](https://www.oreilly.com/library/view/managing-cloud-native/9781098111380/)
 
 
 ## Archi
 
-- [ ] [Building Microservices](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+- [x] [Building Microservices](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
-- [ ] [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
+- [ ] **[Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)**
 
 - [ ] [Building Multi-Tenant SaaS Architectures](https://www.oreilly.com/library/view/building-multi-tenant-saas/9781098140632/)
 
@@ -59,11 +59,11 @@ A list of cool books, on different technical subjects I've interest in :
 
 ## Infra
 
-- [ ] [Terraform: Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
+- [x] [Terraform: Up and Running](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
 
 - [ ] [Terraform Cookbook](https://www.oreilly.com/library/view/terraform-cookbook/9781098108458/)
 
-- [ ] [Ansible: Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781098109141/)
+- [x] [Ansible: Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781098109141/)
 
 - [ ] [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/)
 
@@ -76,23 +76,24 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [ ] [Understanding Linux Network Internals](https://www.oreilly.com/library/view/understanding-linux-network/0596002556/)
 
-- [ ] [Linux Pocket Guide](https://www.oreilly.com/library/view/linux-pocket-guide/9781098157951/)
+- [x] [Linux Pocket Guide](https://www.oreilly.com/library/view/linux-pocket-guide/9781098157951/)
 
 - [ ] [Practical Linux System Administration](https://www.oreilly.com/library/view/practical-linux-system/9781098109028/)
 
-- [ ] [Linux Cookbook](https://www.oreilly.com/library/view/linux-cookbook-2nd/9781492087151/)
+- [x] [Linux Cookbook](https://www.oreilly.com/library/view/linux-cookbook-2nd/9781492087151/)
 
 - [ ] [Raspberry Pi Cookbook](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781098130916/)
 
 
 ## Security
 
-- [ ] [Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
+- [ ] **[Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)**
 
 - [ ] [Web Application Security](https://www.oreilly.com/library/view/web-application-security/9781098143923/)
 
 - [ ] [Security as Code](https://www.oreilly.com/library/view/security-as-code/9781098127459/)
-
+- [ ] 
+- [ ] [Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
 
 ## Other
 
@@ -109,8 +110,6 @@ A list of cool books, on different technical subjects I've interest in :
 - [ ] [Clean Code Cookbook](https://www.oreilly.com/library/view/clean-code-cookbook/9781098144715/)
 
 - [ ] [Communication Patterns](https://www.oreilly.com/library/view/communication-patterns/9781098140533/)
-
-- [ ] [Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
 
 - [ ] [Web Application Security](https://www.oreilly.com/library/view/web-application-security/9781098143923/)
 
