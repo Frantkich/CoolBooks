@@ -35,8 +35,6 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [ ] [Kubernetes Patterns](https://www.oreilly.com/library/view/kubernetes-patterns-2nd/9781098131678/)
 
-- [ ] [Kubernetes Patterns](https://www.oreilly.com/library/view/kubernetes-patterns-2nd/9781098131678/)
-
 - [ ] [Prometheus: Up & Running](https://www.oreilly.com/library/view/prometheus-up/9781098131135/)
 
 - [ ] [Continuous Deployment](https://www.oreilly.com/library/view/continuous-deployment/9781098146719/)
@@ -78,13 +76,13 @@ A list of cool books, on different technical subjects I've interest in :
 
 - [ ] [Understanding Linux Network Internals](https://www.oreilly.com/library/view/understanding-linux-network/0596002556/)
 
-- [ ] [Linux Pocket Guide, 4th Edition](https://www.oreilly.com/library/view/linux-pocket-guide/9781098157951/)
+- [ ] [Linux Pocket Guide](https://www.oreilly.com/library/view/linux-pocket-guide/9781098157951/)
 
 - [ ] [Practical Linux System Administration](https://www.oreilly.com/library/view/practical-linux-system/9781098109028/)
 
-- [ ] [Linux Cookbook](https://www.amazon.fr/Linux-Cookbook-Essential-Network-Administrators/dp/1492087165/ref=pd_bxgy_thbs_d_sccl_2/259-2691949-4287021?pd_rd_w=vIXCI&content-id=amzn1.sym.cff2227d-f2f4-453e-8d37-b217535012a4&pf_rd_p=cff2227d-f2f4-453e-8d37-b217535012a4&pf_rd_r=9RE68BDR68618BZW18RZ&pd_rd_wg=dgizP&pd_rd_r=9cd39fc8-7b28-4fc4-a38c-4850986fdb95&pd_rd_i=1492087165&psc=1)
+- [ ] [Linux Cookbook](https://www.oreilly.com/library/view/linux-cookbook-2nd/9781492087151/)
 
-- [ ] [Raspberry Pi Cookbook, 4th Edition](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781098130916/)
+- [ ] [Raspberry Pi Cookbook](https://www.oreilly.com/library/view/raspberry-pi-cookbook/9781098130916/)
 
 
 ## Security
